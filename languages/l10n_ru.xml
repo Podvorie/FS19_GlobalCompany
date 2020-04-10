@@ -9,8 +9,8 @@
 		<e k="GC_duplicateError" v="GlobalCompany загружается дважды! Удали '%s' из папки с модами и запусти игру по новой."/>
 		<e k="GC_combinedError" v="GlobalCompany загружается как часть Карты '%s'! Это запрещено и приводит к ошибкам. Скачай актуальную версию на Modhub или посети '%s' для поддержки."/>
 		<e k="GC_invalidModWarning" v="Модификация %s от %s не поддерживается! Во избежании ошибок эта модификация должна быть удалена"/>
-		<e k="GC_quitToMainMenu" v="Are you sure you want to exit to the main menu?"/>
-		<e k="GC_betaVersionWarning" v="Development version has been loaded. Please report warnings or errors at %s. Visit modHub download link for the latest official release version or visit '%s' for support."/>
+		<e k="GC_quitToMainMenu" v="Вы уверены, что хотите выйти в главное меню?"/>
+		<e k="GC_betaVersionWarning" v="Установлена версия для разработчиков. Пожалуйста, сообщайте о предупреждениях или ошибках на %s. Посетите modHub для получения последней официальной версии модификации или посетите сайт '%s' для получения поддержки."/>
 		<e k="GC_namingError" v="Invalid 'file / zip' name '%s' found for development release! Use 'FS19_GlobalCompany' for file / zip name. Visit modHub download link for the latest official release version or visit '%s' for support."/>
 
 		<!-- GUI -->
@@ -72,7 +72,7 @@
 		<e k="GC_Open_Overview_Menu" v="Открыть обзорное меню"/>
 		
 		<e k="GC_Factory_Animal_Dialogue1" v="Выберите количество животных для выгрузки на завод."/>
-		<e k="GC_Factory_Animal_Dialogue2" v="Select the number of animals to unload to vehicle."/>
+		<e k="GC_Factory_Animal_Dialogue2" v="Выберите количество животных для погрузки в транспортное средство."/>
 		
 		<e k="GC_gui_disabled" v="Остановлено"/>
 		<e k="GC_gui_add" v="Добавить"/>
@@ -81,12 +81,12 @@
 		<e k="GC_gui_percent" v="Процент"/>
 		<e k="GC_gui_lifeTimeIncome" v="Доход"/>
 		<e k="GC_gui_changeFactoryTitle" v="Введите новое имя фабрики ниже."/>
-		<e k="GC_gui_freeSlots" v="Free Slots:"/>
+		<e k="GC_gui_freeSlots" v="Свободные ячейки:"/>
 		
 		<e k="GC_gui_placeableObject" v="Размещаемый объект"/>
 		<e k="GC_gui_farmlandObject" v="Farmland объект"/>
-		<e k="GC_gui_changeDynamicStorageTitle" v="Define a name for the Storage"/>
-		<e k="GC_gui_dynamicStorage_titleBackup" v="Dynamic Storage"/>
+		<e k="GC_gui_changeDynamicStorageTitle" v="Изиенть название хранилища"/>
+		<e k="GC_gui_dynamicStorage_titleBackup" v="Динамическое хранилище"/>
 		
 		<!-- Formatting required -->
 		<e k="GC_Factory_Sell_Warning" v="Эта фабрика до сих пор содержит продукты. Это будет продано оптом на следующую сумму:
@@ -108,7 +108,7 @@
 		<e k="GC_baleShreader_toggleOffWorkLight" v="Выключить рабочий свет"/>
 
 		<!-- Baler -->
-		<e k="GC_baler_title" v="пресс-подборщик"/>
+		<e k="GC_baler_title" v="Пресс-подборщик"/>
 		<e k="GC_baler_title_witStack" v="Пресс-подборщик с вилочным погрузчиком"/>
 		<e k="GC_baler_cleaner" v="Очистить пресс-подборщик"/>
 		<e k="GC_baler_openGui" v="Открыть управление"/>
@@ -148,7 +148,7 @@
 		<e k="GC_placeableDigDisplay_btnSave" v="Сохранить"/>
 
 		<!-- GlobalMarket -->
-		<e k="GC_globalMarket_openGui" v="Open GlobalMarket"/>
+		<e k="GC_globalMarket_openGui" v="Открыть GlobalMarket"/>
 		<e k="GC_globalMarket_header" v="Global Market 2020"/>
 		<e k="GC_globalMarket_headerInfo" v="Здесь вы можете продать доставленный товар или купить товар."/>
 		<e k="GC_globalMarket_btn_buyScreen" v="Просмотр для покупки"/>
